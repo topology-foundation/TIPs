@@ -1,0 +1,6 @@
+- name: Home
+  link: /home/
+- name: All
+  link: /all/
+- name: RFR
+  link: /rfr/
