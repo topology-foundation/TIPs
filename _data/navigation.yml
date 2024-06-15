@@ -1,6 +1,4 @@
-- name: Home
-  link: /home/
-- name: All
-  link: /all/
-- name: RFR
+- name: RFRs
   link: /rfr/
+- name: TIPs
+  link: /tip/
