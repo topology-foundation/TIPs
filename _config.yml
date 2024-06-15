@@ -39,11 +39,9 @@ permalink: /posts/:title
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  # we should add a research@topology.gg group
   email:
-  facebook:
   github: topology-foundation/TIPs
-  instagram:
-  linkedin:
   rss: # just type anything here for a working RSS icon
   twitter: topology_gg
 
