@@ -57,7 +57,12 @@ img {
 }
 
 .highlight {
-  background-color: #272822;
+  background-color: #f0f1ec;
+  font-family: 'Courier New', Courier, monospace
+}
+
+pre code {
+  color: rgb(33, 37, 41);
 }
 
 pre.highlight {

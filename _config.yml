@@ -35,7 +35,7 @@ author: topology
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/logo.png
 
-permalink: /posts/:title
+permalink: /posts/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:

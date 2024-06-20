@@ -8,4 +8,4 @@ permalink: /tip/
 
 | Number | Title | Author |
 | ------ | ----- | ------ |
-|        |       |        |
+| 2      | [CRO snapshot algorithm using threshold logical clock](/posts/tip-2) | Thomas Hsueh ([@guiltgyoza](https://github.com/guiltygyoza)) |
